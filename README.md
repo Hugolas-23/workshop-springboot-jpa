@@ -4,12 +4,12 @@ Este projeto é um workshop desenvolvido com **Spring Boot** + **Spring Data JPA
 
 ## 🧱 Tecnologias utilizadas
 
-- Java (versão … — substituir pela versão real)  
-- Spring Boot (versão usada no projeto)  
+- Java (versão 24)  
+- Spring Boot (versão 3.5)  
 
 - Spring Data JPA  
 
-- Banco de dados (ex: H2 / MySQL / PostgreSQL) — substituir/conferir conforme configuração  
+- Banco de dados H2
 - Maven (arquivo `pom.xml`)  
 - GitHub para controle de versão  
 
@@ -33,6 +33,7 @@ Este projeto é um workshop desenvolvido com **Spring Boot** + **Spring Data JPA
 ```
 
 > A estrutura indica que o projeto está configurado como uma aplicação Spring Boot típica usando Maven.
+
 
 ## 🚀 Como executar o projeto
 
