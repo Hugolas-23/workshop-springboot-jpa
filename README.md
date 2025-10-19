@@ -34,6 +34,13 @@ Este projeto é um workshop desenvolvido com **Spring Boot** + **Spring Data JPA
 
 > A estrutura indica que o projeto está configurado como uma aplicação Spring Boot típica usando Maven.
 
+## 🧩 Modelo de Domínio
+
+![Modelo de Domínio](assets/domain-model.png)
+
+## 🧩 Modelo de Instâncias
+
+![Modelo de Domínio](assets/domain-instance.png)
 
 ## 🚀 Como executar o projeto
 
