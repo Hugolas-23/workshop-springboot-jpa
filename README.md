@@ -98,7 +98,7 @@ Este projeto é um workshop desenvolvido com **Spring Boot** + **Spring Data JPA
 
 ## 👨‍💻 Autor
 
-Hugo Martins — @Hugolas-23
+Hugo Martins — [@Hugolas-23](https://github.com/Hugolas-23)
 
 LinkedIn - www.linkedin.com/in/hugo-martins23
    
